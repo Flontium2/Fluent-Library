@@ -82,3 +82,46 @@ function Flontium2:Dropdown(TabName, Options, LocalName)
 
     return _G[LocalDropdown]
 end
+
+function Flontium2:Toggle(TabName, Options, LocalName)
+    local LocalToggle = LocalName or "Toggle"
+
+    _G[LocalToggle] = Tabs[TabName]:AddToggle(Options.Title, {
+        Title = Options.Title,
+        Default = Options.Default or false,
+    })
+
+    if Options.OnChanged and type(Options.OnChanged) == "function" then
+        _G[LocalToggle]:OnChanged(Options.OnChanged)
+    end
+
+    return _G[LocalToggle]
+end
+
+function Flontium2:SendKey(bt)
+    game:GetService("VirtualInputManager"):SendKeyEvent(true, bt, false, game) 
+    game:GetService("VirtualInputManager"):SendKeyEvent(false, bt, false, game)
+end
+
+function Flontium2:CreateUiButton(Link, Key)
+    local G3L = {};
+            
+    G3L["1"] = Instance.new("ScreenGui", game:GetService("Players").LocalPlayer:WaitForChild("PlayerGui"));
+    G3L["1"]["ZIndexBehavior"] = Enum.ZIndexBehavior.Sibling;
+    
+    G3L["2"] = Instance.new("ImageButton", G3L["1"]);
+    G3L["2"]["BorderSizePixel"] = 0;
+    G3L["2"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+    G3L["2"]["Image"] = Link;
+    G3L["2"]["Size"] = UDim2.new(0, 55, 0, 55);
+    G3L["2"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
+    G3L["2"]["Position"] = UDim2.new(0.14441, 0, 0.17886, 0);
+    G3L["2"].MouseButton1Down:Connect(function ()
+        Flontium2:SendKey(Key)
+    end)
+    
+    G3L["2"].Draggable = true
+    
+    G3L["3"] = Instance.new("UICorner", G3L["2"]);
+    G3L["3"]["CornerRadius"] = UDim.new(0, 9);
+end
