@@ -8,6 +8,7 @@ Flontium2:Paragraph("Main", "A", "Test")
 Flontium2:Button("Main", "Test", "", function()
     print("Test")
 end)
+
 Flontium2:Dropdown("Main", {
     Title = "Main Options",
     Values = {"Option A", "Option B", "Option C"},
@@ -17,3 +18,13 @@ Flontium2:Dropdown("Main", {
         print(v)
     end,
 }, "MainDropdown")
+
+Flontium2:Toggle("Main", {
+    Title = "Enable Feature",
+    Default = false,
+    OnChanged = function(state)
+        print("Toggle changed: ", state)
+    end,
+}, "MyToggle")
+
+Flontium2:CreateUiButton("", "LeftControl")
