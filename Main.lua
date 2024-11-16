@@ -125,3 +125,4 @@ function Flontium2:CreateUiButton(Link, Key)
     G3L["3"] = Instance.new("UICorner", G3L["2"]);
     G3L["3"]["CornerRadius"] = UDim.new(0, 9);
 end
+return Flontium2
