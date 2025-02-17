@@ -106,7 +106,7 @@ end
 function Flontium2:CreateUiButton(Link, Key)
     local G3L = {};
             
-    G3L["1"] = Instance.new("ScreenGui", game:GetService("Players").LocalPlayer:WaitForChild("PlayerGui"));
+    G3L["1"] = Instance.new("ScreenGui", game:GetService("CoreGui");
     G3L["1"]["ZIndexBehavior"] = Enum.ZIndexBehavior.Sibling;
     
     G3L["2"] = Instance.new("ImageButton", G3L["1"]);
