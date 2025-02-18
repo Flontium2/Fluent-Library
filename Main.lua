@@ -51,6 +51,10 @@ function Flontium2:Paragraph(Tab, Title, Content)
     })
 end
 
+function Flontium2:Section(TabName, Section_Title)
+    Tabs[TabName]:AddSection(Section_Title)
+end
+
 function Flontium2:Button(TabName, Title, Des, CallBack)
     if not Tabs[TabName] then return end
     if not Title then return end
