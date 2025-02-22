@@ -95,7 +95,7 @@ function Flontium2:Toggle(TabName, Options, LocalName)
         Default = Options.Default or false,
     })
 
-    if Options.OnChanged and type(Options.OnChanged) == "function" then
+    if Options.OnChanged then
         _G[LocalToggle]:OnChanged(Options.OnChanged)
     end
 
