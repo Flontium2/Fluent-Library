@@ -58,7 +58,6 @@ end
 function Flontium2:Button(TabName, Title, Des, CallBack)
     if not Tabs[TabName] then return end
     if not Title then return end
-    if type(CallBack) ~= "function" then print("Callback must be a function") return end
 
     Tabs[TabName]:AddButton({
         Title = Title,
