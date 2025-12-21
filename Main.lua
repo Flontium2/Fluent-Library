@@ -130,6 +130,7 @@ function Flontium2:CreateUiButton(Link, Key)
     end)
 
     G3L["2"].Draggable = true
+return Flontium2
 
     G3L["3"] = Instance.new("UICorner", G3L["2"]);
     G3L["3"]["CornerRadius"] = UDim.new(0, 9);
