@@ -1,11 +1,137 @@
---[[
-___________.__                 __  .__               ________  
-\_   _____/|  |   ____   _____/  |_|__|__ __  _____  \_____  \ 
- |    __)  |  |  /  _ \ /    \   __\  |  |  \/     \  /  ____/ 
- |     \   |  |_(  <_> )   |  \  | |  |  |  /  Y Y  \/       \ 
- \___  /   |____/\____/|___|  /__| |__|____/|__|_|  /\_______ \
-     \/                     \/                    \/         \/
-                                                                             
-    This file was obfuscated by Flontium2
---]]
-return(function(...)local E={}local function S(S)return E[S+(-480153-(-519216))]end return(function(E,o,D,a,x,y,b,B,X,C,t,K,v,q,M,J,R,I,r,i,d,S)C,B,i,J,M,r,X,t,R,S,d,q,K,I,v=function(E,o)local D=X(o)local a=function()return S(E,{},o,D)end return a end,function(E)local S,o=62754+-62753,E[-985982-(-985983)]while o do K[o],S=K[o]-(-830393-(-830394)),S+(586610+-586609)if K[o]==-457710-(-457710)then K[o],v[o]=nil,nil end o=E[S]end end,function(E,o)local D=X(o)local a=function(a,x,y,b,v)return S(E,{a;x,y,b;v},o,D)end return a end,function(E,o)local D=X(o)local a=function(a,x,y,b,v,K,I)return S(E,{a;x;y,b,v,K,I},o,D)end return a end,function(E,o)local D=X(o)local a=function(a,x,y,b)return S(E,{a,x;y,b},o,D)end return a end,function(E,o)local D=X(o)local a=function(a,x,y,b,v,K,I,t,X)return S(E,{a;x;y,b;v,K;I,t,X},o,D)end return a end,function(E)for S=290601+-290600,#E,-70689-(-70690)do K[E[S]]=K[E[S]]+(-7775-(-7776))end if D then local S=D(true)local o=x(S)o.__index,o.__gc,o.__len=E,B,function()return 4585645-1043136 end return S else return a({},{__gc=B;__index=E;__len=function()return-377964+3920473 end})end end,-311018-(-311018),function(E)K[E]=K[E]-(824890+-824889)if 590194-590194==K[E]then K[E],v[E]=nil,nil end end,function(S,D,a,x)local A,L,K,c,h,O,f,T,Y,B,X,G,b,t,w,k,U,P,W,q,z,V while S do if S<131300+8431065 then if S<5718979-969214 then if S<2559564-182694 then if S<940221+835528 then if S<369963+301286 then if S<745335+-521262 then S=W S=b and-346731+4701424 or 8246044-672821 else B=D[816761+-816757]t=D[152613+-152610]K=D[337707-337706]X=D[997823+-997821]S=not X S=S and 15479161-549809 or 743479+5648524 end else if S<1766868-269800 then S=5082043-720182 b=""B=b else S=b and 411245+8467618 or 208422+2598447 end end else if S<2807875-589426 then if S<-909948+2844230 then b=""S=B==b S=S and 14835366-670453 or-577330+12230806 else S=E.BzqTcp79puwzm b={}end else V="\095\071"S=E.tfk2Ls1d5hlnx W=E[V]b=W[q]b={b}end end else if S<611187+3372596 then if S<3101437-49826 then if S<-980734+3784438 then W=""q=t==W b=q S=11527552-174117 else b=not q S=b and 728375+8440801 or 8145433-(-145124)end else t=D[-24798-(-24801)]K=D[-856827+856828]b=v[a[-412717+412718]]X=D[-184356-(-184358)]K=nil S=b[X]b="\065\100\100\083\101\099\116\105\111\110"b=S[b]X=nil b=b(S,t)t=nil S=E["\055\118\085\080\077\086\069\053\104\112\119\106\057\087"]b={}end else if S<3935644-(-419885)then if S<-565362+4742278 then V=""W=B==V b=W S=276713+11385467 else V="\095\071"W=E[V]P="\079\110\067\104\097\110\103\101\100"S=8545445-972222 b=W[q]V=t[P]W="\079\110\067\104\097\110\103\101\100"W=b[W]W=W(b,V)end else U="\067\111\110\116\101\110\116"S=E["\051\118\100\115\099\112\120\109\103\076\052\090\066\111"]W="\078\111\116\105\102\121"P="\084\105\116\108\101"A=513520+-513515 G="\083\117\098\067\111\110\116\101\110\116"q=v[a[-906236+906237]]w="\068\117\114\097\116\105\111\110"b={}K=nil V={[P]=X,[U]=t,[G]=B,[w]=A}B=nil W=q[W]X=nil t=nil W=W(q,V)end end end else if S<-616819+8077591 then if S<-621363+7048622 then if S<535601+4865098 then if S<974654+4281310 then S=v[a[922046-922045]]b="\083\101\110\100\075\101\121"K=v[a[-372202-(-372204)]]b=S[b]b=b(S,K)b={}S=E["\053\122\068\078\085\114\088\119\115\057\056\082\116"]else S=not t S=S and 988671+10084179 or 8160856-(-799929)end else if S<5767930-(-365867)then P="\079\110\067\104\097\110\103\101\100"V=t[P]W=S S=V and 280361+9016819 or-744183-(-753399)b=V else q=not t S=q and-836090+12189525 or 823098+1974555 b=q end end else if S<7088757-287209 then if S<-743799+7220164 then L="\068\101\102\097\117\108\116"B=D[-949177-(-949181)]t=D[252331-252328]q="\084\111\103\103\108\101"K=D[1040513-1040512]A="\084\105\116\108\101"G="\084\105\116\108\101"W="\095\071"U="\084\105\116\108\101"Y=S X=D[-134370-(-134372)]b=B or q q=b b=E[W]V=v[a[311467-311466]]W=V[X]V="\065\100\100\084\111\103\103\108\101"V=W[V]P=t[U]w=t[A]A="\068\101\102\097\117\108\116"z=t[L]L=false c=z or L U={[G]=w;[A]=c}V=V(W,P,U)b[q]=V W="\079\110\067\104\097\110\103\101\100"b=t[W]S=b and-335082+10875948 or 3013692-712182 else W=not B q=S b=W S=W and-720758+12382938 or 4337380-233063 end else V=""S=320682+1248645 W=t==V b=W end end else if S<7739807-(-442414)then if S<499503+7137337 then if S<8061943-489583 then S="\084\115\117\111 \072\117\098 \083\116\105\108\108 \085\115\105\110\103 \077\121 \083\111\117\114\099\101 \076\079\076"t=S S=6444644-(-219239)else S=E.U6wQ0POY8rEs V="\095\071"W=E[V]b=W[q]b={b}end else q,P=W(B,q)S=q and 8852142-258984 or 12995309-(-529072)end else if S<7963600-(-508656)then if S<-653684+8940621 then G="\084\105\116\108\101"q="\068\114\111\112\100\111\119\110"X=D[1014271+-1014269]K=D[-490798-(-490799)]Y="\086\097\108\117\101\115"t=D[320429-320426]W="\095\071"B=D[-852086-(-852090)]b=B or q O="\068\101\102\097\117\108\116"A="\084\105\116\108\101"U="\084\105\116\108\101"q=b b=E[W]h="\077\117\108\116\105"V=v[a[-998015+998016]]W=V[X]P=t[U]w=t[A]c=t[Y]Y="\077\117\108\116\105"V="\065\100\100\068\114\111\112\100\111\119\110"L=S k=t[h]A="\086\097\108\117\101\115"T=t[O]h=false z=k or h L="\068\101\102\097\117\108\116"h=S O=173990-173989 k=T or O U={[G]=w,[A]=c,[Y]=z;[L]=k}V=W[V]V=V(W,P,U)W="\068\101\102\097\117\108\116\086\097\108\117\101"b[q]=V b=t[W]S=b and-24225+15174256 or 873403+4675822 else W=v[a[-170085+170086]]c="\098\121 "O="\068\097\114\107"w="\083\117\098\084\105\116\108\101"G=X..t A=c..B h="\085\068\105\109\050"z="\083\105\122\101"k=E[h]T=-25185+25565 V="\067\114\101\097\116\101\087\105\110\100\111\119"S=E["\054\085\107\089\067\072\071\065\110\086\117\070\071\050"]c="\084\097\098\087\105\100\116\104"Y=101979-101859 h="\102\114\111\109\079\102\102\115\101\116"L=k[h]h=-673281-(-673781)k=L(h,T)T="\084\104\101\109\101"L="\065\099\114\121\108\105\099"U="\084\105\116\108\101"V=W[V]h=true f="\077\105\110\105\109\105\122\101\075\101\121"P={[U]=G;[w]=A,[c]=Y;[z]=k,[L]=h;[T]=O;[f]=q}V=V(W,P)b={V}end else X=D[265194-265192]t=I()S={}B=S v[t]=D[916092+-916089]S="\049"W="\073\110\115\116\097\110\099\101"K=D[731447+-731446]U="\067\111\114\101\071\117\105"q=E[W]W="\110\101\119"b=q[W]G="\071\101\116\083\101\114\118\105\099\101"P="\103\097\109\101"V=E[P]G=V[G]P={G(V,U)}W="\083\099\114\101\101\110\071\117\105"q=b(W,o(P))B[S]=q b="\049"S=B[b]b="\090\073\110\100\101\120\066\101\104\097\118\105\111\114"P="\069\110\117\109"V=E[P]P="\090\073\110\100\101\120\066\101\104\097\118\105\111\114"W=V[P]V="\083\105\098\108\105\110\103"q=W[V]S[b]=q P="\049"W="\073\110\115\116\097\110\099\101"S="\050"q=E[W]W="\110\101\119"G=-419821+419876 b=q[W]V=B[P]W="\073\109\097\103\101\066\117\116\116\111\110"q=b(W,V)B[S]=q b="\050"S=B[b]q=673589-673589 b="\066\111\114\100\101\114\083\105\122\101\080\105\120\101\108"S[b]=q b="\050"V="\067\111\108\111\114\051"S=B[b]b="\066\097\099\107\103\114\111\117\110\100\067\111\108\111\114\051"U=-258216+258471 W=E[V]V="\102\114\111\109\082\071\066"P=438126+-437871 q=W[V]V=-1022528+1022783 W=q(V,P,U)S[b]=W q=X b="\050"S=B[b]b="\073\109\097\103\101"P=-216304-(-216359)V="\085\068\105\109\050"S[b]=q b="\050"S=B[b]U=25249-25249 b="\083\105\122\101"W=E[V]V="\110\101\119"q=W[V]V=81699+-81699 W=q(V,P,U,G)V="\067\111\108\111\114\051"S[b]=W b="\050"S=B[b]K=nil W=E[V]U=96803+-96803 b="\066\111\114\100\101\114\067\111\108\111\114\051"V="\102\114\111\109\082\071\066"q=W[V]P=940925+-940925 V=604403-604403 W=q(V,P,U)G=-12896+12896 S[b]=W b="\050"V="\085\068\105\109\050"S=B[b]P=231207-231207 W=E[V]U=.17886 b="\080\111\115\105\116\105\111\110"V="\110\101\119"q=W[V]V=.14441 W=q(V,P,U,G)q="\050"S[b]=W b=B[q]q="\077\111\117\115\101\066\117\116\116\111\110\049\068\111\119\110"S=b[q]b="\067\111\110\110\101\099\116"b=S[b]q=C(5276609-294697,{a[432429+-432428],t})t=R(t)b=b(S,q)W="\073\110\115\116\097\110\099\101"b="\050"S=B[b]b="\068\114\097\103\103\097\098\108\101"q=true X=nil S[b]=q q=E[W]P="\050"W="\110\101\119"b=q[W]S="\051"W="\085\073\067\111\114\110\101\114"V=B[P]q=b(W,V)b="\051"P=645620+-645611 B[S]=q V="\085\068\105\109"S=B[b]b="\067\111\114\110\101\114\082\097\100\105\117\115"W=E[V]V="\110\101\119"B=nil q=W[V]V=-841210+841210 W=q(V,P)S[b]=W b={}S=E.z0YDkLCTXFMp end end end end else if S<11391890-(-270248)then if S<10727114-850682 then if S<9915250-686773 then if S<-272232+9216072 then if S<8212682-(-576050)then S=v[a[945918-945917]]w="\084\105\116\108\101"c="\084\105\116\108\101"V=q z=S A=P[c]k="\073\099\111\110"L=P[k]k=""P=nil c="\073\099\111\110"U="\065\100\100\084\097\098"Y=L or k G={[w]=A,[c]=Y}U=X[U]U=U(X,G)S[V]=U V=nil S=-171813+7880720 else S=""t=S S=-979134+3786003 end else if S<10135835-1025728 then V="\084\105\116\108\101"P="\068\101\115\099\114\105\112\116\105\111\110"w=""b=v[a[897149-897148]]S=b[X]U=B or w B=nil G=S b="\065\100\100\066\117\116\116\111\110"X=nil G="\067\097\108\108\098\097\099\107"W={[V]=t,[P]=U,[G]=q}q=nil b=S[b]t=nil b=b(S,W)S=E.ZLx9AV7NHxICl9 b={}K=nil else P="\069\110\117\109"V=E[P]P="\075\101\121\067\111\100\101"W=V[P]V="\076\101\102\116\067\111\110\116\114\111\108"b=W[V]q=b S=7515205-(-775352)end end else if S<-1033664+10785501 then if S<884219+8418423 then U="\116\121\112\101"P=E[U]w="\079\110\067\104\097\110\103\101\100"G=t[w]U=P(G)P="\102\117\110\099\116\105\111\110"S=-35809-(-45025)V=U==P b=V else q=not t S=12754470-31393 b=q end else W=not t b=W S=W and 85155+1484172 or 6564584-(-419309)end end else if S<212135+10740335 then if S<714166+9866766 then if S<8928572-(-1035712)then X=D[731383+-731381]b="\112\097\105\114\115"S=E[b]t=D[-107747+107750]K=D[-344234-(-344235)]W={S(t)}B=W[-995199+995201]S=963454+6745453 q=W[864638-864635]b=W[-808056-(-808057)]W=b else P="\079\110\067\104\097\110\103\101\100"S=956350+1345160 V="\095\071"W=E[V]b=W[q]V=t[P]W="\079\110\067\104\097\110\103\101\100"W=b[W]W=W(b,V)end else S=E["\056\115\078\048\075\122\083\102\054\068\056\073\055\080"]b={}end else if S<-819961+12216287 then if S<10777051-(-483887)then b={}S=E["\053\113\077\085\106\083\057\100\114\075\073\105\057"]else S=b and 7438019-(-130084)or 6181340-(-482543)end else P="\067\111\110\116\101\110\116"q=v[a[-250024+250025]]S=E.RJjHkaPTmXw0 V="\084\105\116\108\101"W={[V]=t,[P]=B}b=q[X]q="\065\100\100\080\097\114\097\103\114\097\112\104"q=b[q]X=nil B=nil q=q(b,W)t=nil b={}K=nil end end end else if S<369067+13781420 then if S<-62306+13286063 then if S<13598182-748279 then if S<-10528+12276475 then S=q S=b and 604211+863225 or 3704913-(-656948)else S=b and 591090+13351096 or-511920+2392041 end else K=D[-442030+442031]X=D[181478+-181476]W=v[a[62754+-62753]]t=D[673400-673397]q=D[227948-227943]b=W[X]S=not b B=D[774332-774328]S=S and-487599+2422506 or 5795857-417133 end else if S<230887+13838357 then if S<14194261-482927 then b={}X=nil S=E["\052\065\122\068\051\098\065\080\080\076\107\111\080\119"]K=nil t=nil else S=E.Cf3RiFr5Yapng7 b={}end else b="\108\111\097\100\115\116\114\105\110\103"K=D S=E[b]t="\103\097\109\101"B="\104\116\116\112\115\058\047\047\103\105\116\104\117\098\046\099\111\109\047\100\097\119\105\100-\115\099\114\105\112\116\115\047\070\108\117\101\110\116\047\114\101\108\101\097\115\101\115\047\108\097\116\101\115\116\047\100\111\119\110\108\111\097\100\047\109\097\105\110\046\108\117\097"q="\072\116\116\112\071\101\116"X=E[t]q=X[q]t={q(X,B)}b=S(o(t))t=I()X=I()S=b()v[X]=S S={}B=I()q="\067\114\101\097\116\101\087\105\110\100\111\119"v[t]=S S={}v[B]=S S=r(-726967+16675230,{X})b=v[t]b[q]=S q="\067\114\101\097\116\101\078\111\116\105\102\121"S=i(799097+-520049,{X})b=v[t]b[q]=S b=v[t]S=M(67042+9861453,{B})q="\067\114\101\097\116\101\084\097\098\115"b[q]=S S=r(14073678-(-142436),{B})b=v[t]q="\080\097\114\097\103\114\097\112\104"b[q]=S q="\083\101\099\116\105\111\110"b=v[t]S=i(-567858+4527275,{B})b[q]=S q="\066\117\116\116\111\110"b=v[t]S=J(12024847-(-1015167),{B})b[q]=S S=d(9162744-967934,{B})q="\068\114\111\112\100\111\119\110"b=v[t]b[q]=S q="\084\111\103\103\108\101"b=v[t]S=r(642804+5822929,{B})b[q]=S b=v[t]S=d(884859+15790978,{})q="\083\101\110\100\075\101\121"b[q]=S S=d(-986495+9488514,{t})q="\067\114\101\097\116\101\085\105\066\117\116\116\111\110"b=v[t]b[q]=S S=v[t]b={S}S=E.mo1uXzlDHQCJv end end else if S<14217406-(-791161)then if S<15610254-724022 then if S<394284+13799845 then S=""B=S S=-839418+12492894 else K=D[-502384+502385]B=D[-976378-(-976382)]t=D[696697-696694]X=D[-231015+231017]V=v[a[-207589-(-207590)]]W=V[X]q=not W S=q and 11862858-(-860219)or 8328030-(-983486)b=q end else b={}S=E.E1VsI41CtlWt end else if S<15918232-(-106659)then if S<-479215+15691683 then V="\095\071"W=E[V]S=5020985-(-528240)b=W[q]W="\083\101\116\086\097\108\117\101"W=b[W]P="\068\101\102\097\117\108\116\086\097\108\117\101"V=t[P]W=W(b,V)else X=D[194662+-194660]K=D[387884+-387883]S=not X t=D[331949-331946]q=D[569847-569842]B=D[1016644-1016640]S=S and 657460+9925391 or 10792170-1019328 end else b="\103\097\109\101"X=D[675765+-675763]S=E[b]W="\103\097\109\101"K=D[334763-334762]b="\071\101\116\083\101\114\118\105\099\101"t="\086\105\114\116\117\097\108\073\110\112\117\116\077\097\110\097\103\101\114"B=false b=S[b]b=b(S,t)t=true q=E[W]S="\083\101\110\100\075\101\121\069\118\101\110\116"S=b[S]S=S(b,t,X,B,q)B=false b="\103\097\109\101"S=E[b]t="\086\105\114\116\117\097\108\073\110\112\117\116\077\097\110\097\103\101\114"b="\071\101\116\083\101\114\118\105\099\101"W="\103\097\109\101"b=S[b]b=b(S,t)t=false K=nil S="\083\101\110\100\075\101\121\069\118\101\110\116"q=E[W]S=b[S]S=S(b,t,X,B,q)S=E.iEchwPL5lzht b={}X=nil end end end end end end S=#x return o(b)end,function(E,o)local D=X(o)local a=function(a,x,y,b,v,K)return S(E,{a,x,y,b;v,K},o,D)end return a end,function(E,o)local D=X(o)local a=function(...)return S(E,{...},o,D)end return a end,{},function()t=(409838-409837)+t K[t]=-211558-(-211559)return t end,{}return(q(13848967-(-294441),{}))(o(b))end)(getfenv and getfenv()or _ENV,unpack or table.unpack,newproxy,setmetatable,getmetatable,select,{...})end)(...)
+local Fluent = loadstring(game:HttpGet("https://github.com/dawid-scripts/Fluent/releases/latest/download/main.lua"))()
+local Flontium2 = {}
+local Tabs = {}
+
+function Flontium2:CreateWindow(Name, des, sub, minimize, Acrylicmode, size)
+    if not Name then return end
+    if not des or des == "" then des = "" end
+    if not minimize or minimize == "" then minimize = Enum.KeyCode.LeftControl end
+    if not Acrylicmode then Acrylicmode = true end
+    if type(size) ~= "table" then error("Size must be in a table") end
+    local Window = Fluent:CreateWindow({
+        Title = Name .. des,
+        SubTitle = "by " .. sub,
+        TabWidth = 120,
+        Size = UDim2.fromOffset(size[1], size[2]),
+        Acrylic = Acrylicmode,
+        Theme = "Dark",
+        MinimizeKey = minimize
+    })
+    return Window
+end
+
+function Flontium2:CreateNotify(Title, Content, SubContent)
+    if not Title then return end
+    if not Content or Content == "" then Content = "Test Notification" end
+    if not SubContent or SubContent == "" then SubContent = "" end
+
+    Fluent:Notify({
+        Title = Title,
+        Content = Content,
+        SubContent = SubContent,
+        Duration = 5
+    })
+end
+
+function Flontium2:CreateTabs(Window, TabDefinitions)
+    for name, value in pairs(TabDefinitions) do
+        Tabs[name] = Window:AddTab({
+            Title = value.Title,
+            Icon = value.Icon or "",
+        })
+    end
+end
+
+function Flontium2:Paragraph(Tab, Title, Content)
+    if not Tabs[Tab] or not Title then return end
+    if Content == "" then Content = "" end
+
+    Tabs[Tab]:AddParagraph({
+        Title = Title,
+        Content = Content
+    })
+end
+
+function Flontium2:Section(TabName, Section_Title)
+    Tabs[TabName]:AddSection(Section_Title)
+end
+
+function Flontium2:Button(TabName, Title, Des, CallBack)
+    if not Tabs[TabName] then return end
+    if not Title then return end
+    if type(CallBack) ~= "function" then
+        print("Callback must be a function")
+        return
+    end
+
+    Tabs[TabName]:AddButton({
+        Title = Title,
+        Description = Des or "",
+        Callback = CallBack
+    })
+end
+
+function Flontium2:Dropdown(TabName, Options, LocalName)
+    local LocalDropdown = LocalName or "Dropdown"
+    _G[LocalDropdown] = Tabs[TabName]:AddDropdown(Options.Title, {
+        Title = Options.Title,
+        Values = Options.Values,
+        Multi = Options.Multi or false,
+        Default = Options.Default or 1,
+    })
+
+    if Options.DefaultValue then
+        _G[LocalDropdown]:SetValue(Options.DefaultValue)
+    end
+
+    if Options.OnChanged and type(Options.OnChanged) == "function" then
+        _G[LocalDropdown]:OnChanged(Options.OnChanged)
+    end
+
+    return _G[LocalDropdown]
+end
+
+function Flontium2:Toggle(TabName, Options, LocalName)
+    local LocalToggle = LocalName or "Toggle"
+
+    _G[LocalToggle] = Tabs[TabName]:AddToggle(Options.Title, {
+        Title = Options.Title,
+        Default = Options.Default or false,
+    })
+
+    if Options.OnChanged and type(Options.OnChanged) == "function" then
+        _G[LocalToggle]:OnChanged(Options.OnChanged)
+    end
+
+    return _G[LocalToggle]
+end
+
+function Flontium2:SendKey(bt)
+    game:GetService("VirtualInputManager"):SendKeyEvent(true, bt, false, game)
+    game:GetService("VirtualInputManager"):SendKeyEvent(false, bt, false, game)
+end
+
+function Flontium2:CreateUiButton(Link, Key)
+    local G3L = {};
+
+    G3L["1"] = Instance.new("ScreenGui", game:GetService("CoreGui"));
+    G3L["1"]["ZIndexBehavior"] = Enum.ZIndexBehavior.Sibling;
+
+    G3L["2"] = Instance.new("ImageButton", G3L["1"]);
+    G3L["2"]["BorderSizePixel"] = 0;
+    G3L["2"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
+    G3L["2"]["Image"] = Link;
+    G3L['2']["Transparency"] = 1
+    G3L["2"]["Size"] = UDim2.new(0, 55, 0, 55);
+    G3L["2"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
+    G3L["2"]["Position"] = UDim2.new(0.14441, 0, 0.17886, 0);
+    G3L["2"].MouseButton1Down:Connect(function()
+        Flontium2:SendKey(Key)
+    end)
+
+    G3L["2"].Draggable = true
+
+    G3L["3"] = Instance.new("UICorner", G3L["2"]);
+    G3L["3"]["CornerRadius"] = UDim.new(0, 9);
+end
+print("[Flontium2] Fluent Library - Modified by Flontium2")]]
